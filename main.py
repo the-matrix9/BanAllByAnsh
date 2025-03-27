@@ -34,12 +34,12 @@ def run_flask():
 # Config vars
 API_ID = int(os.getenv("API_ID","14050586"))
 API_HASH = os.getenv("API_HASH","42a60d9c657b106370c79bb0a8ac560c")
-BOT_TOKEN = os.getenv("BOT_TOKEN","7656328643:AAH1WiSPtXHJ3HedRnvJpUhBg9Rluv8fEMk")
+BOT_TOKEN = os.getenv("BOT_TOKEN","7590282379:AAFtKL-N0sCYGuvjvL0ZxppTiSIk2xa1kcQ")
 BOT_USERNAME = os.getenv("BOT_USERNAME","AnshControler_Bot")
 MONGO_URI = os.getenv("MONGO_URI","mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority")
 OWNER_ID = int(os.getenv("OWNER_ID","6258915779"))
-FORCE_JOIN1 = os.getenv("FORCE_JOIN1","anshhacker")
-FORCE_JOIN2 = os.getenv("FORCE_JOIN2","vipboyansh")
+FORCE_JOIN1 = os.getenv("FORCE_JOIN1","@UR_RISHU_143")
+FORCE_JOIN2 = os.getenv("FORCE_JOIN2","@SparkCodez")
 
 # MongoDB setup
 try:
