@@ -1,0 +1,4 @@
+flask 
+tgcrypto
+pyrogram
+pymongo
